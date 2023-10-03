@@ -53,7 +53,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 - Special thanks to the [OpenAI GPT-3](https://openai.com) model for assisting in generating project content.
 
-Feel free to reach out to [andaziboboye@gmail.com] for any questions or further information.
+Feel free to reach out to my mail [andazi](andaziboboye@gmail.com) for any questions or further information.
 
 Happy analyzing!
 
