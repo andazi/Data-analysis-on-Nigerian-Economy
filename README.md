@@ -1,6 +1,6 @@
 # Data-analysis-on-Nigerian-Economy
 
-Welcome to the Nigeria Economic Analysis Project! This project focuses on analyzing Nigeria's economic performance using data analysis techniques. While the project was initiated by [Your Name], we encourage contributions and use by anyone interested in exploring and understanding Nigeria's economic landscape.
+Welcome to the Nigeria Economic Analysis Project! This project focuses on analyzing Nigeria's economic performance using data analysis techniques. While the project was initiated by Andazi, we encourage contributions and use by anyone interested in exploring and understanding Nigeria's economic landscape.
 
 ## About the Project
 
